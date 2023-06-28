@@ -1,10 +1,10 @@
 # Yatzy game
 
-Small React App game for playing yatzy solo. 
+Small React App for playing solo the yatzy game. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can start the app by running:
 
-### `npm start`
+`npm start`
 
