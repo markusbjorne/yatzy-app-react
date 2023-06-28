@@ -1,6 +1,6 @@
 # Yatzy game
 
-Small React App for playing solo the yatzy game. 
+Small React App for playing the yatzy game, single player mode. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
